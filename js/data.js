@@ -65,7 +65,7 @@ const portfolioData = {
                 "Context API",
                 "Google Maps"
             ],
-            image: "assets/argus",
+            image: "assets/argus-preview.jpg",
             githubUrl: "https://github.com/kshitizjauhari18/SIH-PROJECT-ARGUS-",
             liveUrl: "https://sih-project-tau-woad.vercel.app/#dashboard"
         },
